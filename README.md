@@ -15,6 +15,7 @@
   - _**Teacher**_: Submit a **request**, to be reviewed by admins with confirmation mail 
     - Profile Contains experience, what they teach, schedule, price
     - can be booked for sessions
+    - **psychologists** => offer consultancy & help to parents.
   - _**Student**_: <<<<< 
 - **Profile Page** includes the user's **information**:
   - Name, Photo, Age, educational system, location, children’s ages in case of a parent, ....
