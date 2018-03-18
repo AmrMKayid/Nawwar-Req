@@ -47,8 +47,9 @@
   
 - **New Activities**:
   - **Trusted Parents** can create new activity in their circle and **invite _people_**
-  
-  
 
-  
-  
+### Schedules:
+- **Create** Study Plan for students and children
+- **Choose** a Plan and make **Customization**
+- **Share** Plans to help other people
+- **Checklist** for tracking student performance over the plan
