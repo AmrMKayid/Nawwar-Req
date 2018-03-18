@@ -53,3 +53,28 @@
 - **Choose** a Plan and make **Customization**
 - **Share** Plans to help other people
 - **Checklist** for tracking student performance over the plan
+
+
+
+### Educational Collaboration:
+- _**Resources**_:
+  > videos, articles, games
+  - organize, collect & share resources
+  - Details Taging
+    - possibly automatic tagging [Future plan]
+  - Rating and Reviewing with comments
+  - Different Translations for resources [Future plan]
+
+- _**Articles**_:
+  > Best Articles => Video
+  - Online Text Editor [Required]
+  - comments on the article
+  - voting for good articles
+
+
+
+
+
+
+
+
