@@ -32,7 +32,11 @@
   - _**Profile View**_: Anyone, Users from the website, Friends, NoOne
   - _**Connection Request**_:
   - _**Location Access**_: for connection recommendations
-  
+
+### Sharing Things:
+  > an educational game or a book
+  - **Post** items within the circle
+  - **Show** interest & **Book** the selected item
 
 ### Activities:
 - **Current Activities**:
@@ -70,11 +74,3 @@
   - Online Text Editor [Required]
   - comments on the article
   - voting for good articles
-
-
-
-
-
-
-
-
