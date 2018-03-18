@@ -13,13 +13,20 @@
 - **Login & Sign Up** different Users: 
   - _**Parent**_: Have @ least **One** Child
   - _**Teacher**_: Submit a **request**, to be reviewed by admins with confirmation mail 
-    - Profile Contains experience, what they teach, schedule, price
-    - can be booked for sessions
-    - **psychologists** => offer consultancy & help to parents.
+    - Merge with psychologists as One Profile ?!
   - _**Student**_: <<<<< 
 - **Profile Page** includes the user's **information**:
-  - Name, Photo, Age, educational system, location, children’s ages in case of a parent, ....
-  - Score, activities, learning rate _(Graph or Daily Track)_
+  - > Name, Photo, Age, educational system, location, ....
+  - _**Parent**_: 
+    - show children’s info 
+    - can track children’s performance
+  - _**Teacher**_: 
+    - experience, what they teach, schedule, price
+    - can be booked for sessions
+  - _**psychologists**_: 
+    - offer consultancy & help to parents.
+  - _**Student**_: 
+    - Score, activities, learning rate _(Graph or Daily Track)_
   
 - **Privacy Settings** for connections:
   - _**Profile View**_: Anyone, Users from the website, Friends, NoOne
