@@ -16,7 +16,7 @@
   - _**Student**_: <<<<< 
 - **Profile Page** includes the user's **information**:
   - Name, Photo, Age, educational system, location, children’s ages in case of a parent, ....
-  - Score, activities, learning rate (Graph || Daily Track)
+  - Score, activities, learning rate _(Graph or Daily Track)_
   
 - **Privacy Settings** for connections:
   - _**Profile View**_: Anyone, Users from the website, Friends, NoOne
