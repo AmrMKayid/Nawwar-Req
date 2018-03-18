@@ -11,20 +11,21 @@
 
 ### Profile:
 - **Login & Sign Up** different Users: 
-  - _**Parent**_: Have @ least **One** Child
-  - _**Teacher**_: Submit a **request**, to be reviewed by admins with confirmation mail 
+  - _**Learner/Student**_
+  - _**Parent**_: Have @ least **One** Child [Check]
+  - _**Teacher**_: Submit a **request**, to be reviewed by admins with confirmation mail [Verification]
     - Merge with psychologists as One Profile ?!
-  - _**Student**_: <<<<< 
 - **Profile Page** includes the user's **information**:
   > Name, Photo, Age, educational system, location, ....
   - _**Parent**_: 
     - show children’s info 
     - can track children’s performance
   - _**Teacher**_: 
-    - experience, what they teach, schedule, price
+    - **About**, experience, what they teach, schedule, price, 
     - can be booked for sessions
   - _**psychologists**_: 
     - offer consultancy & help to parents.
+    - chatting, sending voice notes, phone call
   - _**Student**_: 
     - Score, activities, learning rate _(Graph or Daily Track)_
   
@@ -35,7 +36,7 @@
 
 ### Sharing Things:
   > an educational game or a book
-  - **Post** items within the circle
+  - **Post** items within the circle [Free or w/ Fees]
   - **Show** interest & **Book** the selected item
 
 ### Activities:
