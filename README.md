@@ -16,7 +16,7 @@
     - Merge with psychologists as One Profile ?!
   - _**Student**_: <<<<< 
 - **Profile Page** includes the user's **information**:
-  - > Name, Photo, Age, educational system, location, ....
+  > Name, Photo, Age, educational system, location, ....
   - _**Parent**_: 
     - show children’s info 
     - can track children’s performance
