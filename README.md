@@ -4,7 +4,7 @@
 > Main Target: People doing **homeschooling** 
 - Help parents to find _the best educational resources_.
 - Get connected with **teachers**.
-- Exchange _educational staff_.
+- Exchange _educational stuff_.
 - Supervise their Children.
 
 # Functionalities:
