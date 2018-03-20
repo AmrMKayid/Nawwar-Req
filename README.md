@@ -66,7 +66,6 @@
   > videos, articles, games
   - organize, collect & share resources [Search]
   - Details Taging [Fixed Tags from Admin System]
-    - ~possibly automatic tagging [Future plan]~
   - Rating and Reviewing with comments
   - Different Translations for resources [Using Google Translate]
 
