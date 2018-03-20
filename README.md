@@ -40,11 +40,6 @@
   - _**Connection Request**_:
   - _**Location Access**_: for connection recommendations
 
-### Sharing Things:
-  - > an educational game or a book
-  - **Post** items within the circle [Free or w/ Fees]
-  - **Show** interest & **Book** the selected item
-
 ### Activities && Sharing Things: (C4)
 
 #### Sharing a.k.a (Store):
