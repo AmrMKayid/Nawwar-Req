@@ -1,15 +1,15 @@
 # Nawwar Educational Collaborative Platform
 
-## Main Goal:
+# Main Goal:
 > Main Target: People doing **homeschooling** 
 - Help parents to find _the best educational resources_.
 - Get connected with **teachers**.
 - Exchange _educational staff_.
 - Supervise their Children.
 
-## Functionalities:
+# Functionalities:
 
-### Profile: (C3)
+## Profile: (C3)
 - **Login & Sign Up** different Users: 
   - _**User**_:
     - _**Normal User**_: can view what is on the website
@@ -40,14 +40,14 @@
   - _**Connection Request**_:
   - _**Location Access**_: for connection recommendations
 
-### Activities && Sharing Things: (C4)
+## Activities && Sharing Things: (C4)
 
-#### Sharing a.k.a (Store):
+### Sharing a.k.a (Store):
   - > an educational game or a book
   - **Post** items within the circle [Parents or Teachers][Free or w/ Fees]
   - **Show** interest & **Book** the selected item [Any User]
 
-#### Activities:
+### Activities:
   - **Current Activities**:
     - **Details**
       - Location
@@ -61,7 +61,7 @@
   - **New Activities**:
     - **Trusted Parents/Teachers** can create new activity in their circle and **invite _people_**
 
-### Educational Collaboration: (C1)
+## Educational Collaboration: (C1)
 - _**Resources**_:
   > videos, articles, games
   - organize, collect & share resources [Search]
@@ -75,7 +75,7 @@
   - voting for good articles
 
 
-### Schedules: (C2)
+## Schedules: (C2)
 - **Create** Study Plan for students and children
 - **Choose** a Plan and make **Customization**
 - **Share** Plans to help other people
