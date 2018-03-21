@@ -13,7 +13,6 @@
 - **Login & Sign Up** different Users: 
   - _**User**_:
     - _**Parent**_  
-    - _**Child**_: can view resources assigned to him by his parent
     - _**Teacher**_: Submit a **request**, to be reviewed by admins with confirmation mail [request][Verification]
 
   - _**Admin System**_
@@ -25,12 +24,14 @@
     - Can add Children
     - show children’s info 
     - can track children’s performance 
+  - _**Child**_: 
+    - can view resources assigned to him by his parent
   - _**Teacher**_: 
     - **About**, experience, what they teach, schedule, price, 
     - can be booked for sessions
-  - _**psychologists**_: 
-    - offer consultancy & help to parents.
-    - chatting, sending voice notes, phone call
+    - _**psychologists**_: 
+      - offer consultancy & help to parents.
+      - chatting, sending voice notes, phone call
   - _**Admin System**_:
     - Verifications for teachers
     - Reporting issues
