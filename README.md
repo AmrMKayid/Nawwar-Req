@@ -12,18 +12,19 @@
 ## Profile: (C3)
 - **Login & Sign Up** different Users: 
   - _**User**_:
-    - _**Normal User**_: can view what is on the website
-    - _**Parent**_: Have @ least **One** Child [request][Check]
+    - _**Parent**_  
+    - _**Child**_: can view resources assigned to him by his parent
     - _**Teacher**_: Submit a **request**, to be reviewed by admins with confirmation mail [request][Verification]
-      - Merge with psychologists as One Profile ?!
+
   - _**Admin System**_
     - Nawwar Profile
   
 - **Profile Page** includes the user's **information**:
   > Name, Photo, Age, educational system, location, Score, activities, learning rate _(Graph or Daily Track)_
   - _**Parent**_: 
+    - Can add Children
     - show children’s info 
-    - can track children’s performance
+    - can track children’s performance 
   - _**Teacher**_: 
     - **About**, experience, what they teach, schedule, price, 
     - can be booked for sessions
